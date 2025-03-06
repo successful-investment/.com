@@ -1,0 +1,375 @@
+
+/* ## Responsive */
+
+
+
+ @media (max-width: 1300px) {
+
+}
+ @media (max-width: 1221px) {
+
+	 
+}
+
+ @media (max-width: 1199px) {
+	 
+	 
+	 .banner-right::after {
+content: inherit;
+	display: none;
+}
+
+.plans {
+
+	background-color: #9f6d58;border-radius: 14px;position: relative;
+}
+
+ 
+.plans:hover {
+
+	background-color: #cc5200;
+	cursor:pointer;
+}
+
+
+.plans  .plan-cont h4,  .plans   .plan-cont span,   .plans  .plan-cont h4, .plans .plan-info h5,  .plans  small {
+	color: #ffffff;
+}
+
+ .plans .plan-btn {
+	border: 1px solid #ffffff;
+	color: #cc5200;
+	background-color: #ffffff;
+}
+
+.plan-cont span {
+	 
+	color: #ffffff;
+}
+
+
+
+	 .plan-bg::after {
+ 	content: inherit;
+	display: none;
+ 
+}
+.plan-img {
+ 
+	display: none;
+}
+
+	 .title p {
+	 
+	padding: 0 0;
+}
+	 
+	 .ban-content::after, .white-after::after {
+	content: inherit;
+	display: none;
+	 
+}
+.ban-content {
+ 
+	text-align: center;
+}.reg-company-img {
+	 
+ 
+	display: none;
+}
+.ban-content {
+	text-align: center;
+	margin-left: 0;
+	margin-bottom: 20px;
+}
+.reg-company {
+ 
+	margin-top: 0;
+}
+	.reg-company-con {
+	display: inline-block;
+	float: none;
+	margin-top: 0;
+	margin-right: 0px;
+} 
+.admin-plans .plans::after {
+ 
+	content: inherit;
+	display: none;
+	 
+}
+
+.deposit-left::after, .deposit-left::before, .deposit-right::after  {
+	content:inherit;
+	display: none;
+	
+}
+ 
+ 
+
+	 .note li {
+ 
+	margin: 2px;
+	 
+}
+	 .form-content {
+ 
+	margin-left: 0;
+ 
+}
+	 .admin-menu li > a, .admin-menu .dropdown-toggle {
+ 
+	font-size: 13px;
+ 
+	padding: 6px 13px 6px 25px;
+ 
+}
+	 .user-details {
+ 
+	width: 41%;
+}
+.user-details span {
+	color: #ffffff;
+	font-size: 22px;
+}
+
+.user-details i {
+
+	font-size: 19px;
+	padding: 12px 13px;
+
+}
+.ref-commisson::before {
+ 
+	content: inherit;
+	display: none;
+	 
+}
+
+}
+ @media (max-width: 991px) {
+	 .payment-info {
+	text-align: center;
+	margin-top: 20px;
+}
+	 .video::before {
+ 	content: inherit;
+	display: none;
+ 
+}.statitics-sec {
+ 
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+
+.deposit-left {
+	width: 100%;
+	float: none;
+	padding: 31px;
+}
+.deposit-right {
+	background: transparent url("../images/dep-right.png") no-repeat scroll center / cover;
+	min-height: 317px;
+	float: none;
+	padding: 20px;
+	width: 100%;
+}
+	 .dollar1::before {
+	content: inherit;
+	display: none;
+}
+.dollar2::before {
+	content: inherit;
+	display: none;
+}
+	 .admin-mobile-logo{ display:block;}
+	 
+	 .admin-desk-logo{ display:none;}
+	 .navbar-nav li a {
+ 
+	padding-left: 14px;
+	 
+}.top-right-btn .btn-info {
+ 
+	padding: 16px 10px;
+	 
+}
+	.admin-logo {
+	text-align: center;
+}
+.admin-logo a {
+	width: 100%;
+	text-align: center;
+}
+.admin-logo a img {
+	margin: 9px auto;
+}
+.admin-menu li {
+	display: inline-block;
+	position: relative;
+	margin: 4px 0;
+}
+.top-info {
+	text-align: center;
+}
+.admin-menu {
+ 
+ 
+	text-align: center;
+} 
+.admin-menu .dropdown-item {
+	font-size: 13px;
+}
+
+
+ }
+ @media (max-width: 767px) {
+	 .address {
+	text-align: center;
+}
+.social-icon {
+	margin: 20px 0;
+	text-align: center;
+}
+	 .ban-content {
+	margin-top: 0;
+ 
+ 
+}
+	 .imp-btns a {
+	margin: 4px 8px;
+ 
+}
+	 .user-details {
+	width: 100%;
+}
+.user-details i {
+ 
+	display: none;
+}
+	 
+	 .user-info {
+ 
+ 
+	text-align: center;
+}
+	 .user-form {
+	padding: 0 10px;
+}
+.navbar {
+ 
+	float: right;
+}
+	 
+	 .mobile-logo{ display:block;}
+	 .desk-logo{ display:none;}
+	 .form-content {
+	margin-top: 0;
+}
+ header {
+	position: relative;
+	background-color: #1c2931;
+}
+.top-btns {
+	margin-top: 10px;
+	text-align: right;
+}
+
+.navbar-toggler {
+	padding: 5px;
+	font-size: 1.25rem;
+	line-height: 1;
+	background-color: #cc5200;
+	border: 1px solid #cc5200;
+	border-radius: .25rem;
+	float: right;
+	display: inline-block;
+	width: auto;margin-top: 10px
+}
+.top-right-btn {
+	margin-top: 10px;
+	text-align: center;
+}
+	 
+}
+ @media (max-width: 640px) {
+	 .navbar-nav li a {
+	padding-left: 7px;
+	font-size: 13px;
+}
+	 
+}	
+@media (max-width: 575px) {
+	.statitics-sec li {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+	.top-btns {
+	margin-top: 10px;
+	text-align: center;
+}.navbar {
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+.navbar-nav li a {
+	background-color: #000000;
+	margin-bottom: 1px;
+	padding: 5px 0;
+	width: 100%;
+	display: inline-block;
+}
+	.admin-select::after {
+ 
+	content: inherit;
+ 
+	display: none;
+} 
+
+.admin-select select {
+ 
+	border-top-right-radius: 6px;
+ 	border-bottom-right-radius: 6px;
+}
+
+.bal-list li {
+ 
+	width: 100%;
+ 
+	margin: 1px 3px;
+	text-align: center;
+}.ban-content h1 {
+	font-size: 33px;
+}
+.timer-count sup {
+	 
+	display: none;
+}
+
+}
+	
+@media (max-width: 560px) {
+}
+@media (max-width: 520px) {
+
+}
+ @media (max-width: 480px) {
+	
+}
+ @media (max-width:460px) {
+}
+ @media (max-width:420px) {
+ 
+}
+ @media (max-width:360px) {
+
+
+}
+ @media (max-width:320px) {
+	 
+
+}
